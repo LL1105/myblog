@@ -10,7 +10,7 @@ paginate = 10 #frontpage pagination
 hasCJKLanguage = true
 
 [outputs]
-home = ["HTML", "RSS", "Algolia"]
+home = ["HTML", "RSS", "JSON"]
 
 [params]
   header_image = "img/post-bg-coffee.jpeg"
