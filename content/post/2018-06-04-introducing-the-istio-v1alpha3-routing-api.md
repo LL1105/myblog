@@ -10,8 +10,6 @@ image: "/img/2018-06-04-introducing-the-istio-v1alpha3-routing-api/background.jp
 published: true 
 tags:
     - Istio 
-
-categories: [ Tech ]
 URL: "/2018/06/04/introducing-the-istio-v1alpha3-routing-api/"
 ---
 

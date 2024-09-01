@@ -1,24 +1,24 @@
 baseurl = "https://helloworld-mjj.github.io"
-title = "Huabing Blog"
+title = "MJJ's Blog"
 theme = "hugo-theme-cleanwhite"
-languageCode = "en-us"
+languageCode = "zh-CN"
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "giscus"
 googleAnalytics = ""
 preserveTaxonomyNames = true
-paginate = 5 #frontpage pagination
+paginate = 10 #frontpage pagination
 hasCJKLanguage = true
 
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/home-bg-jeep.jpg"
-  SEOTitle = "赵化冰的博客 | Zhaohuabing Blog"
-  description = "赵化冰，程序员, 开源爱好者，生活探险家 | 这里是 赵化冰 的博客，与你一起发现更大的世界。"
-  keyword = "赵化冰, zhaohuabing, Zhaohuabing, , 赵化冰的网络日志, 赵化冰的博客, Zhaohuabing Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Istio, Kubernetes, 微服务, Microservice"
+  header_image = "img/post-bg-coffee.jpeg"
+  SEOTitle = "我的博客 | My Blog"
+  description = "大家好"
+  keyword = ""
   slogan = "路在脚下，心向远方"
-  upstreamAttribution = true
+  upstreamAttribution = false
 
   image_404 = "img/404-bg.jpg"
   title_404 = "你来到了没有知识的荒原 :("
@@ -36,9 +36,8 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = ""
 
   # Sidebar settings
-  sidebar_about_description = "Software Developer, Open Source Enthusiast and Life Adventurer"
-  #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
-  sidebar_avatar = "img/zhaohuabing.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_about_description = "欢迎大家访问我的博客"
+  sidebar_avatar = "img/avatar.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
   featured_condition_size = 1 
@@ -56,10 +55,10 @@ home = ["HTML", "RSS", "Algolia"]
   twikoo_env_id = ""
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
-  reward = true 
+  reward = false 
   # reward_guide = "如果这篇文章对你有用,请随意打赏" 
 
-  friends = true
+  friends = false
   bookmarks = false
   about_me = true
 
@@ -68,16 +67,16 @@ home = ["HTML", "RSS", "Algolia"]
   #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
 
   [params.social]
-  rss            = true 
-  email          = "youremail@gmail.com"
+  #rss            = true 
+  #email          = "@gmail.com"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   #twitter       = "full profile url in twitter"
-  linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
-  stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
+  #linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
+  #tackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   #instagram     = "full profile url in instagram"
-  github         = "https://github.com/yourgithub"
-  wechat         = "your wechat qr code image"
+  #github         = "https://github.com/yourgithub"
+  #wechat         = "your wechat qr code image"
   #medium        = "full profile url in medium"
   #slack         = "full workspace url in slack"
   #pinterest     = "full profile url in pinterest"
@@ -88,29 +87,29 @@ home = ["HTML", "RSS", "Algolia"]
   #xing          = "https://www.xing.com/profile/yourxingid"
   #git           = "full profile url for git user"
   
-  [[params.friend_link]]
-  title = "Linda的博客"
-  href =  "https://zhaozhihan.com"
+  [params.giscus]
+  data_repo="helloworld-mjj/helloworld-mjj.github.io"
+  data_repo_id="R_kgDOL_6yNw"
+  data_category="Announcements"
+  data_category_id="DIC_kwDOL_6yN84CiIBs"
+  data_mapping="pathname"
+  data_reactions_enabled="1"
+  data_emit_metadata="0"
+  data_theme="light"
+  data_lang="zh-CN"
+  crossorigin="anonymous"
+  
+  #[[params.friend_link]]
+  #title = ""
+  #href =  ""
 
-  [[params.bookmark_link]]
-  title =  "Martin Fowler"
-  href =  "https://martinfowler.com"
-  [[params.bookmark_link]]
-  title = "ServiceMesher"
-  href =  "http://www.servicemesher.com"
-  [[params.bookmark_link]]
-  title =  "Pxhere"
-  href = "https://pxhere.com"
-  [[params.bookmark_link]]
-  title = "unsplash"
-  href = "https://unsplash.com"
+  #[[params.bookmark_link]]
+  #title =  ""
+  #href =  ""
   
   [[params.addtional_menus]]
   title =  "ARCHIVE"
   href =  "/archive/"
-  [[params.addtional_menus]]
-  title =  "NOTES"
-  href =  "/notes/"
   [[params.addtional_menus]]
   title =  "ABOUT"
   href =  "/about/"
