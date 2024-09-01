@@ -10,7 +10,7 @@ paginate = 10 #frontpage pagination
 hasCJKLanguage = true
 
 [outputs]
-home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/post-bg-coffee.jpeg"
@@ -31,9 +31,9 @@ home = ["HTML", "RSS", "JSON"]
 
   # algolia site search
   algolia_search = true
-  algolia_appId = ""
-  algolia_indexName = ""
-  algolia_apiKey = ""
+  algolia_appId = "H4TR0ZOFYL"
+  algolia_indexName = "index"
+  algolia_apiKey = "f77a0b368cba264c978cd1b09bf04666"
 
   # Sidebar settings
   sidebar_about_description = "欢迎大家访问我的博客"
