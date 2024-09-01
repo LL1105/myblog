@@ -15,8 +15,8 @@ home = ["HTML", "RSS", "Algolia"]
 [params]
   header_image = "img/post-bg-coffee.jpeg"
   SEOTitle = "我的博客 | My Blog"
-  description = "大家好"
-  keyword = ""
+  description = "MJJ的博客网站，助力技术沉淀"
+  keyword = "博客"
   slogan = "路在脚下，心向远方"
   upstreamAttribution = false
 
