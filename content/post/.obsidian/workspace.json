@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "2031b7599aa3f7fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ce2d1e94f71bdad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "100667b3277a4099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "带权轮询负载均衡实现探讨.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8dddcfd2c45eb073",
+    "type": "split",
+    "children": [
+      {
+        "id": "a193a5c6fe4df22c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "283c7f705e1dbc27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f309c7647934da3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5207040f6aaba27f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "019aec71110862ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9d1243b7234ddeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4520d6e5ee9eab6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "带权轮询负载均衡实现探讨.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32931373a5c76500",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "带权轮询负载均衡实现探讨.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc3502af5b758924",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "739fa6171dae17ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "带权轮询负载均衡实现探讨.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "100667b3277a4099",
+  "lastOpenFiles": [
+    "算法刷题记录.md",
+    "2024-09-05.md",
+    "带权轮询负载均衡实现探讨.md"
+  ]
+}
