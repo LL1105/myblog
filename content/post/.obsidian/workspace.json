@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "详解SpringMVC处理流程.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -166,8 +166,7 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian42-brat:BRAT": false,
-      "note-to-mp:复制到公众号": false
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "9f329ec9336175f6",

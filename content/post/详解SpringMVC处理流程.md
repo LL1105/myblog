@@ -26,7 +26,7 @@ tags:
 
 大家先看看这张图对大致流程进行一个了解（后边文章在看的时候可以结合这张图）
 
-![[SpringMVC架构.png]]
+![](./SpringMVC架构.png)
 
 
 我们知道SpringMVC是运行在Web容器（Tomcat、Jetty等）中的，而SpringMVC的核心处理器就是`DispatcherServlet` ，那么`DispatcherServlet` 是如何接收到要处理的Http请求的呢？
@@ -38,7 +38,7 @@ tags:
 先给大家看下`DispatcherServlet`的调用时序图（比较丑陋，大家将就看看），时序图忽略了`doService`之前的流程，所以给大家在上面梳理了一下，接下来就只关注`doService`方法开始。
 
 
-![](SpringMVC调用时序图.png)
+![](./SpringMVC调用时序图.png)
 
 看图我们可以知道，实际上`doService`方法并没有控制各个组件进行处理，而是调用了`doDispatch`方法，`doService`只是对Request对象进行了一些处理，比如设置一些属性值。
 
