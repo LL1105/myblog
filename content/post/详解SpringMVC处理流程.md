@@ -28,7 +28,9 @@ tags:
 
 大家先看看这张图对大致流程进行一个了解（后边文章在看的时候可以结合这张图）
 
-![](SpringMVC架构.png)
+![](/img/SpringMVC架构.png)
+[](https://www.bilibili.com/video/BV1e7izYhETP/?spm_id_from=333.1007.tianma.50-3-197.click&vd_source=9910abaf8f354c2b432e475482f200eb)
+
 
 
 我们知道SpringMVC是运行在Web容器（Tomcat、Jetty等）中的，而SpringMVC的核心处理器就是`DispatcherServlet` ，那么`DispatcherServlet` 是如何接收到要处理的Http请求的呢？

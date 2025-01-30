@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d6fe20419fcec8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JVM垃圾回收器.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JVM垃圾回收器"
-            }
-          },
-          {
             "id": "a884d00c587a3083",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "交易引擎设计.md",
-                "mode": "source",
+                "file": "详解SpringMVC处理流程.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "交易引擎设计"
+              "title": "详解SpringMVC处理流程"
             }
           },
           {
@@ -47,20 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "分库分表解决方案"
-            }
-          },
-          {
-            "id": "9b677ac4cc13bf22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redis限流——使用Redis Cluster突破单Redis限流瓶颈.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Redis限流——使用Redis Cluster突破单Redis限流瓶颈"
             }
           },
           {
@@ -87,8 +59,7 @@
               "title": "慢查询排查以及解决方案"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Clean White Theme for Hugo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,12 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis限流——使用Redis Cluster突破单Redis限流瓶颈.md",
+                "file": "详解SpringMVC处理流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Redis限流——使用Redis Cluster突破单Redis限流瓶颈 的出链列表"
+              "title": "详解SpringMVC处理流程 的出链列表"
             }
           },
           {
@@ -206,10 +177,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis限流——使用Redis Cluster突破单Redis限流瓶颈.md"
+                "file": "详解SpringMVC处理流程.md"
               },
               "icon": "lucide-list",
-              "title": "Redis限流——使用Redis Cluster突破单Redis限流瓶颈 的大纲"
+              "title": "详解SpringMVC处理流程 的大纲"
             }
           },
           {
@@ -254,34 +225,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b677ac4cc13bf22",
+  "active": "a884d00c587a3083",
   "lastOpenFiles": [
     "readme.md",
-    "2018-06-02-istio08.md",
-    "2018-05-24-set_up_my_ubuntu_desktop.md",
-    "2018-05-23-service_2_service_auth.md",
-    "2018-05-23-istio-auto-injection-with-webhook.md",
-    "2018-05-23-external_system_auth.md",
-    "2018-05-22-user_authentication_authorization.md",
-    "2018-05-21-algolia-integration-with-jekyll.md",
-    "2018-05-01-may-day-jiulonghu.md",
-    "2018-04-16-using-helm-to-deploy-to-kubernetes.md",
-    "2018-04-11-service-mesh-vs-api-gateway.md",
-    "2018-03-29-what-is-service-mesh-and-istio.md",
-    "2018-03-13-use-docker-behind-http-proxy.md",
-    "2018-02-09-vim-tips.md",
-    "2018-02-09-docker-without-sudo.md",
-    "2018-02-03-authentication-and-authorization-of-microservice.md",
-    "2018-01-02-nginmesh-install.md",
-    "2017-11-28-access-application-from-outside.md",
-    "2017-11-08-istio-canary-release.md",
-    "2017-11-07-istio-traffic-shifting.md",
+    "交易引擎设计.md",
+    "().md",
+    "详解SpringMVC处理流程.md",
     "2017-11-04-istio-install_and_example.md",
-    "2017-11-03-hello-world.md",
+    "2017-11-07-istio-traffic-shifting.md",
+    "2017-11-08-istio-canary-release.md",
+    "2017-11-28-access-application-from-outside.md",
+    "2018-01-02-nginmesh-install.md",
+    "2018-02-03-authentication-and-authorization-of-microservice.md",
+    "2018-02-09-docker-without-sudo.md",
+    "2018-02-09-vim-tips.md",
+    "2018-03-13-use-docker-behind-http-proxy.md",
+    "2018-03-29-what-is-service-mesh-and-istio.md",
+    "2018-04-11-service-mesh-vs-api-gateway.md",
+    "2018-04-16-using-helm-to-deploy-to-kubernetes.md",
+    "2018-05-01-may-day-jiulonghu.md",
+    "2018-05-21-algolia-integration-with-jekyll.md",
+    "2018-05-22-user_authentication_authorization.md",
+    "2018-05-23-external_system_auth.md",
+    "2018-05-23-istio-auto-injection-with-webhook.md",
+    "2018-05-23-service_2_service_auth.md",
+    "2018-05-24-set_up_my_ubuntu_desktop.md",
+    "2018-06-02-istio08.md",
     "2018-06-04-introducing-the-istio-v1alpha3-routing-api.md",
-    "分库分表解决方案.md",
-    "带权轮询负载均衡实现探讨.md",
-    "缓存一致性问题全场景及其解决方案.md",
+    "JVM垃圾回收器.md",
+    "img",
     "从零开始学架构（李运华）@www.java1234.com_1_100.pdf",
     "03-从0开始学架构 1.epub",
     "03-从0开始学架构.epub",
@@ -300,7 +272,6 @@
     "assert/OEBPS/Images/5e4f9a33814bf7e8c153fe69c69dc963.png",
     "assert/OEBPS/Images",
     "assert/OEBPS/Text/59.html",
-    "assert/OEBPS/Text/58.html",
-    "assert/OEBPS/Text/57.html"
+    "assert/OEBPS/Text/58.html"
   ]
 }

@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "1dbeb6dc42ec2dab",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d227f15e8a2c3cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8784e93145436786",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "static/img/SpringMVC架构.png"
+              },
+              "icon": "lucide-image",
+              "title": "SpringMVC架构"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04df54dde715232f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2c4e6ce3afbfb19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2b4b483ddd63161",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ea23987ecb87e308",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "059935614014631a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0e18955bda17d78",
+    "type": "split",
+    "children": [
+      {
+        "id": "101916fd1fab6bf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0664a695c2fabc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "static/img/SpringMVC架构.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "SpringMVC架构 的反向链接列表"
+            }
+          },
+          {
+            "id": "debef195c9180fea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "static/img/SpringMVC架构.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "SpringMVC架构 的出链列表"
+            }
+          },
+          {
+            "id": "53f295a528d95fa2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "80689d443c7c6d5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "static/img/SpringMVC架构.png"
+              },
+              "icon": "lucide-list",
+              "title": "SpringMVC架构 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c2b4b483ddd63161",
+  "lastOpenFiles": [
+    "public/post/img/sitesearch.png/index.html",
+    "public/post/img/fullscreenshot.png/index.html",
+    "public/post/img/sitesearch.png",
+    "public/post/img/fullscreenshot.png",
+    "public/post/img",
+    "content/post/().md",
+    "content/post/详解SpringMVC处理流程.md",
+    "content/post/img/sitesearch.png.md"
+  ]
+}
