@@ -29,7 +29,7 @@ tags:
 大家先看看这张图对大致流程进行一个了解（后边文章在看的时候可以结合这张图）
 
 ![](/img/SpringMVC架构.png)
-[](https://www.bilibili.com/video/BV1e7izYhETP/?spm_id_from=333.1007.tianma.50-3-197.click&vd_source=9910abaf8f354c2b432e475482f200eb)
+[![视频标题]()](https://www.bilibili.com/video/BV1e7izYhETP/?spm_id_from=333.1007.tianma.50-3-197.click&vd_source=9910abaf8f354c2b432e475482f200eb)
 
 
 
