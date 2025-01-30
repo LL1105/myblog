@@ -14,7 +14,7 @@ tags:
 
 在Spring MVC中，处理一个Web请求的流程被设计得非常清晰且高效，从客户端的请求发送到最终的响应返回，整个过程涵盖了多个核心组件的协作。理解这些组件的工作机制及其之间的交互，是掌握Spring MVC的重要基础。
 
-当用户发出HTTP请求时，Spring MVC会通过一系列步骤来处理该请求，并生成对应的响应。这个处理流程主要包括以下关键阶段：
+用户发出HTTP请求时，Spring MVC会通过一系列步骤来处理该请求，并生成对应的响应。这个处理流程主要包括以下关键阶段：
 
 1. **前端控制器（DispatcherServlet）**：Spring MVC的核心，它负责接收所有进入的请求，并协调其他组件进行处理。
 2. **处理器映射（Handler Mapping）**：用于确定具体的处理器（Controller）来处理当前请求。
@@ -29,9 +29,6 @@ tags:
 大家先看看这张图对大致流程进行一个了解（后边文章在看的时候可以结合这张图）
 
 ![](/img/SpringMVC架构.png)
-[![视频标题]()](https://www.bilibili.com/video/BV1e7izYhETP/?spm_id_from=333.1007.tianma.50-3-197.click&vd_source=9910abaf8f354c2b432e475482f200eb)
-
-
 
 我们知道SpringMVC是运行在Web容器（Tomcat、Jetty等）中的，而SpringMVC的核心处理器就是`DispatcherServlet` ，那么`DispatcherServlet` 是如何接收到要处理的Http请求的呢？
 

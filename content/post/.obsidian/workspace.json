@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "详解SpringMVC处理流程.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -227,10 +227,10 @@
   },
   "active": "a884d00c587a3083",
   "lastOpenFiles": [
-    "readme.md",
-    "交易引擎设计.md",
     "().md",
     "详解SpringMVC处理流程.md",
+    "readme.md",
+    "交易引擎设计.md",
     "2017-11-04-istio-install_and_example.md",
     "2017-11-07-istio-traffic-shifting.md",
     "2017-11-08-istio-canary-release.md",
