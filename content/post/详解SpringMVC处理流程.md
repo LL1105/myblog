@@ -38,7 +38,7 @@ image: /img/background.jpeg
 先给大家看下`DispatcherServlet`的调用时序图（比较丑陋，大家将就看看），时序图忽略了`doService`之前的流程，所以给大家在上面梳理了一下，接下来就只关注`doService`方法开始。
 
 
-![](static/img/SpringMVC调用时序图.png)
+![](/img/SpringMVC调用时序图.png)
 
 看图我们可以知道，实际上`doService`方法并没有控制各个组件进行处理，而是调用了`doDispatch`方法，`doService`只是对Request对象进行了一些处理，比如设置一些属性值。
 
