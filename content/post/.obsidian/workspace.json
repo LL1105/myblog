@@ -4,39 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "8ce2d1e94f71bdad",
+        "id": "3a81b7fe26416424",
         "type": "tabs",
         "children": [
           {
-            "id": "100667b3277a4099",
+            "id": "9d6fe20419fcec8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "详解SpringMVC处理流程.md",
+                "file": "JVM垃圾回收器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "详解SpringMVC处理流程"
+              "title": "JVM垃圾回收器"
             }
           },
           {
-            "id": "6ae0901019daf9b6",
+            "id": "a884d00c587a3083",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "详解SpringMVC处理流程.md",
+                "file": "交易引擎设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "详解SpringMVC处理流程"
+              "title": "交易引擎设计"
+            }
+          },
+          {
+            "id": "77bbcd6e5794aa17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "分库分表解决方案.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "分库分表解决方案"
+            }
+          },
+          {
+            "id": "9b677ac4cc13bf22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2018-06-04-introducing-the-istio-v1alpha3-routing-api.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2018-06-04-introducing-the-istio-v1alpha3-routing-api"
+            }
+          },
+          {
+            "id": "cdf5a3ca05b7a89b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "dc58fa4631282ce7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "慢查询排查以及解决方案.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "慢查询排查以及解决方案"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "详解SpringMVC处理流程.md",
+                "file": "2018-06-04-introducing-the-istio-v1alpha3-routing-api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "详解SpringMVC处理流程 的出链列表"
+              "title": "2018-06-04-introducing-the-istio-v1alpha3-routing-api 的出链列表"
             }
           },
           {
@@ -154,10 +206,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "详解SpringMVC处理流程.md"
+                "file": "2018-06-04-introducing-the-istio-v1alpha3-routing-api.md"
               },
               "icon": "lucide-list",
-              "title": "详解SpringMVC处理流程 的大纲"
+              "title": "2018-06-04-introducing-the-istio-v1alpha3-routing-api 的大纲"
             }
           },
           {
@@ -169,14 +221,23 @@
               "icon": "lucide-file",
               "title": "插件不再活动"
             }
+          },
+          {
+            "id": "8ca8308ffdca62e4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 326.5,
-    "collapsed": true
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,23 +247,53 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "audio-recorder:开始/结束录音": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "publish:发布更改": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6ae0901019daf9b6",
+  "active": "9b677ac4cc13bf22",
   "lastOpenFiles": [
-    "SpringMVC调用时序图.png",
-    "SpringMVC架构.png",
+    "分库分表解决方案.md",
     "带权轮询负载均衡实现探讨.md",
-    "算法刷题记录.md",
+    "缓存一致性问题全场景及其解决方案.md",
     "2018-06-04-introducing-the-istio-v1alpha3-routing-api.md",
+    "从零开始学架构（李运华）@www.java1234.com_1_100.pdf",
+    "Redis限流——使用Redis Cluster突破单Redis限流瓶颈.md",
+    "未命名.md",
+    "03-从0开始学架构 1.epub",
+    "03-从0开始学架构.epub",
+    "TCP IP详解.pdf",
+    "assert/OEBPS/toc.ncx",
+    "assert/OEBPS/content.opf",
+    "assert/OEBPS/Images/76e0853d8914a4b6c38508a024e852b4.png",
+    "assert/OEBPS/Images/dec1d9a1f44e8160fde98beb54925dd4.png",
+    "assert/OEBPS/Images/7a5ce827036050114dcb81a81579097c.png",
+    "assert/OEBPS/Images/a31d2276dd4c6de3ee33b887029fccb0.png",
+    "assert/OEBPS/Images/578682e89fdeab44f88cebd94b89cd83.png",
+    "assert/OEBPS/Images/76c24d11ae685637c4cd527ba9e01200.png",
+    "assert/OEBPS/Images/cbc7cdce30f9e5ebd5f3196ac019f67c.png",
+    "assert/OEBPS/Images/b43249ce4e199ba19d723c57d327fe3f.png",
+    "assert/OEBPS/Images/9eeb410034b8bbe260e1fc480a7beacd.png",
+    "assert/OEBPS/Images/5e4f9a33814bf7e8c153fe69c69dc963.png",
+    "assert/OEBPS/Images",
+    "assert/OEBPS/Text/59.html",
+    "assert/OEBPS/Text/58.html",
+    "assert/OEBPS/Text/57.html",
+    "DDos攻击有哪些.md",
+    "慢查询排查以及解决方案.md",
     "详解SpringMVC处理流程.md",
+    "HTTP不同版本到底有什么区别.md",
+    "交易引擎设计.md",
+    "JVM垃圾回收器.md",
+    "算法刷题记录.md",
+    "Linux命令.md",
+    "基数树.md",
     "Linux是如何创建进程的.md",
+    "assert.md",
     "~/myblog/stastic/img/SpringMVC.md",
-    "~/myblog/stastic/img",
-    "~/myblog/stastic",
-    "~/myblog",
-    "~",
     "2024-09-05.md"
   ]
 }

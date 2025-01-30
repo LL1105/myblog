@@ -1,1 +1,8 @@
-{}
+{
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
+}
