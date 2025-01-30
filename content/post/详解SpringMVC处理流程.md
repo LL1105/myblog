@@ -1,8 +1,6 @@
 ---
 layout: post
 title: 详解SpringMVC处理流程
-subtitle:   " "
-description: " "
 date: 2024-09-15
 author: MJJ
 published: true
