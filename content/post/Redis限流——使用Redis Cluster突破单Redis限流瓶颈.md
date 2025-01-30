@@ -1,3 +1,14 @@
+---
+title: Redis限流——使用Redis Cluster突破单Redis限流瓶颈
+author: 听雨coding
+date: 2025-01-30
+tags:
+  - Redis
+layout: post
+published: true
+image: /img/2018-06-04-introducing-the-istio-v1alpha3-routing-api/background.jpg
+---
+
 # 概述
 
 当我们借助Redis实现分布式限流时，通常会根据将一个限流key放在一个Redis节点上，例如使用Redission的限流：

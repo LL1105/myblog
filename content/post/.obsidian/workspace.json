@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2018-06-04-introducing-the-istio-v1alpha3-routing-api.md",
+                "file": "Redis限流——使用Redis Cluster突破单Redis限流瓶颈.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2018-06-04-introducing-the-istio-v1alpha3-routing-api"
+              "title": "Redis限流——使用Redis Cluster突破单Redis限流瓶颈"
             }
           },
           {
@@ -179,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2018-06-04-introducing-the-istio-v1alpha3-routing-api.md",
+                "file": "Redis限流——使用Redis Cluster突破单Redis限流瓶颈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2018-06-04-introducing-the-istio-v1alpha3-routing-api 的出链列表"
+              "title": "Redis限流——使用Redis Cluster突破单Redis限流瓶颈 的出链列表"
             }
           },
           {
@@ -206,10 +206,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2018-06-04-introducing-the-istio-v1alpha3-routing-api.md"
+                "file": "Redis限流——使用Redis Cluster突破单Redis限流瓶颈.md"
               },
               "icon": "lucide-list",
-              "title": "2018-06-04-introducing-the-istio-v1alpha3-routing-api 的大纲"
+              "title": "Redis限流——使用Redis Cluster突破单Redis限流瓶颈 的大纲"
             }
           },
           {
@@ -256,13 +256,33 @@
   },
   "active": "9b677ac4cc13bf22",
   "lastOpenFiles": [
+    "readme.md",
+    "2018-06-02-istio08.md",
+    "2018-05-24-set_up_my_ubuntu_desktop.md",
+    "2018-05-23-service_2_service_auth.md",
+    "2018-05-23-istio-auto-injection-with-webhook.md",
+    "2018-05-23-external_system_auth.md",
+    "2018-05-22-user_authentication_authorization.md",
+    "2018-05-21-algolia-integration-with-jekyll.md",
+    "2018-05-01-may-day-jiulonghu.md",
+    "2018-04-16-using-helm-to-deploy-to-kubernetes.md",
+    "2018-04-11-service-mesh-vs-api-gateway.md",
+    "2018-03-29-what-is-service-mesh-and-istio.md",
+    "2018-03-13-use-docker-behind-http-proxy.md",
+    "2018-02-09-vim-tips.md",
+    "2018-02-09-docker-without-sudo.md",
+    "2018-02-03-authentication-and-authorization-of-microservice.md",
+    "2018-01-02-nginmesh-install.md",
+    "2017-11-28-access-application-from-outside.md",
+    "2017-11-08-istio-canary-release.md",
+    "2017-11-07-istio-traffic-shifting.md",
+    "2017-11-04-istio-install_and_example.md",
+    "2017-11-03-hello-world.md",
+    "2018-06-04-introducing-the-istio-v1alpha3-routing-api.md",
     "分库分表解决方案.md",
     "带权轮询负载均衡实现探讨.md",
     "缓存一致性问题全场景及其解决方案.md",
-    "2018-06-04-introducing-the-istio-v1alpha3-routing-api.md",
     "从零开始学架构（李运华）@www.java1234.com_1_100.pdf",
-    "Redis限流——使用Redis Cluster突破单Redis限流瓶颈.md",
-    "未命名.md",
     "03-从0开始学架构 1.epub",
     "03-从0开始学架构.epub",
     "TCP IP详解.pdf",
@@ -281,19 +301,6 @@
     "assert/OEBPS/Images",
     "assert/OEBPS/Text/59.html",
     "assert/OEBPS/Text/58.html",
-    "assert/OEBPS/Text/57.html",
-    "DDos攻击有哪些.md",
-    "慢查询排查以及解决方案.md",
-    "详解SpringMVC处理流程.md",
-    "HTTP不同版本到底有什么区别.md",
-    "交易引擎设计.md",
-    "JVM垃圾回收器.md",
-    "算法刷题记录.md",
-    "Linux命令.md",
-    "基数树.md",
-    "Linux是如何创建进程的.md",
-    "assert.md",
-    "~/myblog/stastic/img/SpringMVC.md",
-    "2024-09-05.md"
+    "assert/OEBPS/Text/57.html"
   ]
 }
