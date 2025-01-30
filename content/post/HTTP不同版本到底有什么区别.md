@@ -1,3 +1,13 @@
+---
+title: HTTP不同版本到底有什么区别
+layout: post
+date: 2017-11-04
+tags:
+  - 网络
+author: 听雨coding
+published: true
+---
+
 # HTTP协议版本
 
 - **HTTP/0.9** ：只支持Get方法，不支持多媒体内通的MIME类型、各种HTTP首部、版本号等。

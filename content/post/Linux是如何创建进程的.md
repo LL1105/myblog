@@ -1,3 +1,14 @@
+---
+title: Linux是如何创建进程的
+layout: post
+date: 2017-11-04
+author: 听雨coding
+tags:
+  - 操作系统
+  - Linux
+published: true
+---
+
 # Linux的进程
 
 首先我们看下进程的定义：**进程就是处于执行期的程序**。
