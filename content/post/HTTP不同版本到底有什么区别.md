@@ -6,6 +6,7 @@ tags:
   - 网络
 author: 听雨coding
 published: true
+image: /img/background.jpeg
 ---
 
 # HTTP协议版本

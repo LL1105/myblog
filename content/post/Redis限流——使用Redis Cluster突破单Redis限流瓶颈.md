@@ -6,7 +6,7 @@ tags:
   - Redis
 layout: post
 published: true
-image: /img/2018-06-04-introducing-the-istio-v1alpha3-routing-api/background.jpg
+image: /img/background.jpeg
 ---
 
 # 概述

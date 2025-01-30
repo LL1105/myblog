@@ -1,3 +1,15 @@
+---
+title: JVM垃圾回收器
+layout: post
+date: 2025-01-30
+author: 听雨coding
+tags:
+  - Java
+  - JVM
+published: 
+image: /img/background.jpeg
+---
+
 # Serial GC
 
 > JDK6及以前的版本的默认GC，包括Serial和Serial Old

@@ -7,6 +7,7 @@ tags:
   - 操作系统
   - Linux
 published: true
+image: /img/background.jpeg
 ---
 
 # Linux的进程
