@@ -1,7 +1,7 @@
 ---
 title: HTTP不同版本到底有什么区别
 layout: post
-date: 2017-11-04
+date: 2024-10-20
 tags:
   - 网络
 author: 听雨coding
