@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/慢查询排查以及解决方案.md",
+                "file": "content/archive/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "慢查询排查以及解决方案"
+              "title": "index"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/慢查询排查以及解决方案.md",
+                "file": "content/archive/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "慢查询排查以及解决方案 的反向链接列表"
+              "title": "index 的反向链接列表"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/慢查询排查以及解决方案.md",
+                "file": "content/archive/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "慢查询排查以及解决方案 的出链列表"
+              "title": "index 的出链列表"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/慢查询排查以及解决方案.md"
+                "file": "content/archive/index.md"
               },
               "icon": "lucide-list",
-              "title": "慢查询排查以及解决方案 的大纲"
+              "title": "index 的大纲"
             }
           }
         ]
@@ -164,11 +164,23 @@
   },
   "active": "a8e26c870522da31",
   "lastOpenFiles": [
+    "public/img/background.jpeg",
+    "content/about/index.md",
+    "static/img/favicon.png",
+    "static/img/background.jpeg",
+    "static/img/avatar.jpg",
+    "static/img/404-bg.jpg",
+    "static/img/7.png",
+    "static/img/contact-bg.jpg",
+    "static/img/disqus.png",
     "content/post/DDos攻击有哪些.md",
+    "static/img/fullscreenshot.png",
+    "static/img/home-bg-jeep.jpg",
+    "static/img/post-bg-coffee.jpeg",
+    "content/post/慢查询排查以及解决方案.md",
     "content/post/HTTP不同版本到底有什么区别.md",
     "2024-09-01.md",
     "content/post/带权轮询负载均衡实现探讨.md",
-    "content/post/慢查询排查以及解决方案.md",
     "content/post/详解SpringMVC处理流程.md",
     "content/post/Redis限流——使用Redis Cluster突破单Redis限流瓶颈.md",
     "content/post/Linux是如何创建进程的.md",
@@ -194,12 +206,6 @@
     "content/post/2018-06-04-introducing-the-istio-v1alpha3-routing-api.md",
     "content/post/readme.md",
     "content/post/2018-05-21-algolia-integration-with-jekyll.md",
-    "content/post/assert/Pasted image 20241125203947.png",
-    "public/post/mypost/SpringMVC调用时序图.png",
-    "static/img/SpringMVC调用时序图.png",
-    "static/img/SpringMVC架构.png",
-    "public/post/img/sitesearch.png",
-    "public/post/img/fullscreenshot.png",
     "content/post/().md",
     "content/post/img/sitesearch.png.md"
   ]
